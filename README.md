@@ -1,5 +1,6 @@
 # Computer-vision
 #Face Expression Recognition using CNN
+
 #Overview
 This project aims to build a Convolutional Neural Network (CNN) to classify facial expressions using the "Face Expression Recognition Dataset" from Kaggle. The model can recognize seven different facial expressions: angry, disgust, fear, happy, sad, surprise, and neutral.
 
